@@ -1,0 +1,7 @@
+.ql-cursor {
+    border-left: 2px solid;
+    margin-left: -1px;
+    pointer-events: none;
+    z-index: 100;
+  }
+  
